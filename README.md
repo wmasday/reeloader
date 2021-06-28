@@ -27,4 +27,6 @@ Instagram Reels &amp; Video Downloader.
 <h3>Requirements</h3>
 
 + Python : Requests & Colorama
-+ NodeJs : Axios, Got, 
++ NodeJs : Axios, Got, CLI-Color, Prompt-Sync
+
+build with ❤ by akuhidayat.
