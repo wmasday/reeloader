@@ -1,6 +1,8 @@
 # Reeloader
 Instagram Reels &amp; Video Downloader.
 
-[![Lang](https://img.shields.io/badge/Build+With-python-yellow.svg)]()
-[![Contact](https://img.shields.io/badge/Instagram-%40mhiidayatt-purple.svg)](https://www.instagram.com/mhiidayatt/) 
+[![Lang](https://img.shields.io/badge/Build%20With-Python-yellow.svg)]()
+[![Lang](https://img.shields.io/badge/Build%20With-NodeJS-yellow.svg)]()
+[![Fitur](https://img.shields.io/badge/Download-Video%20&%20Reels-brightgreen.svg)]()
+[![Contact](https://img.shields.io/badge/Instagram-%40akuhidayatt-purple.svg)](https://www.instagram.com/mhiidayatt/) 
 [![API](https://img.shields.io/badge/API-Hackertarget.com-brightgreen.svg)](https://hackertarget.com/)
