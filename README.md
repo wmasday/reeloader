@@ -13,6 +13,7 @@ Instagram Reels &amp; Video Downloader.
 
     > Run With NodeJs
       $ node index.js
+      * Filename with extentions (ex: video.mp4)
 
     > Run With Python
       ! Optional Command
@@ -21,3 +22,4 @@ Instagram Reels &amp; Video Downloader.
         $ python3 -m pip install colorama requests
 
       $ python3 insta.py
+      * Filename without extentions (ex: video)
