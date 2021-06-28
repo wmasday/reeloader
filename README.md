@@ -7,9 +7,11 @@ Instagram Reels &amp; Video Downloader.
 [![Contact](https://img.shields.io/badge/Instagram-%40akuhidayatt-purple.svg)](https://www.instagram.com/akuhidayatt/) 
 
 <h4>Usage</h4>
-=
+<br/>
+    $ git clone https://github.com/akuhidayat/reeloader.git
+    $ cd reeloader
+    > Run With NodeJs
+    $ node index.js
 
-    > Open The https://www.zoomeye.org/
-    > Search This Keyword '/login.rsp'
-    > Wait To Get IP and Port
-    $ python3 thecctv.py 
+    > Run With Python
+    $ python3 insta.py
