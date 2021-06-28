@@ -29,4 +29,5 @@ Instagram Reels &amp; Video Downloader.
 + Python : Requests & Colorama
 + NodeJs : Axios, Got, CLI-Color, Prompt-Sync
 
-build with ❤ by akuhidayat.
+---
+<p align="center">Build with ❤ by akuhidayat.</p>
