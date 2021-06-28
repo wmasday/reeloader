@@ -6,7 +6,7 @@ Instagram Reels &amp; Video Downloader.
 [![Fitur](https://img.shields.io/badge/Download-Video%20&%20Reels-brightgreen.svg)]()
 [![Contact](https://img.shields.io/badge/Instagram-%40akuhidayatt-purple.svg)](https://www.instagram.com/akuhidayatt/) 
 
-<h4>Usage</h4>
+<h3>Usage</h3>
 
     $ git clone https://github.com/akuhidayat/reeloader.git
     $ cd reeloader
@@ -23,3 +23,8 @@ Instagram Reels &amp; Video Downloader.
 
       $ python3 insta.py
       * Filename without extentions (ex: video)
+
+<h3>Requirements</h3>
+
++ Python : Requests & Colorama
++ NodeJs : Axios, Got, 
