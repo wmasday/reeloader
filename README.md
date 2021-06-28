@@ -15,4 +15,9 @@ Instagram Reels &amp; Video Downloader.
       $ node index.js
 
     > Run With Python
+      ! Optional Command
+        $ pip install colorama rquests
+                 or
+        $ python3 -m pip install colorama requests
+
       $ python3 insta.py
