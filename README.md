@@ -1,3 +1,4 @@
 # Reeloader
-<br/>
-Instagram Reels &amp; Video Downloader
+<center>
+  Instagram Reels &amp; Video Downloader.
+</center>
